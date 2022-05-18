@@ -6,6 +6,7 @@ import { Tabla } from './Tabla';
 export function Aplicacion(){
     return(
         <React.Fragment>
+            <Encabezado/>
             <Tabla/>
         </React.Fragment>
 
