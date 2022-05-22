@@ -31,7 +31,7 @@ export function Footer() {
                                     Contacto
                                 </h6>
                                 <p>Manizales, Caldas, CO</p>
-                                <p>un@unal.edu.co</p>
+                                <p>une@unal.edu.co</p>
                                 <p>+57 312 345 9098</p>
                                 <p>834 56 89</p>
                             </div>
