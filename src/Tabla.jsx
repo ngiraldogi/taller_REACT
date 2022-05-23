@@ -5,30 +5,30 @@ export function Tabla() {
     <table class="table table-dark">
       <thead>
         <tr>
-          <th scope="col">#</th>
-          <th scope="col">First</th>
-          <th scope="col">Last</th>
-          <th scope="col">Handle</th>
+          <th scope="col">Estudiante</th>
+          <th scope="col">Nombres</th>
+          <th scope="col">Apellidos</th>
+          <th scope="col">Instagram</th>
         </tr>
       </thead>
       <tbody>
         <tr>
           <th scope="row">1</th>
-          <td>Mark</td>
-          <td>Otto</td>
-          <td>@mdo</td>
+          <td>Nicolas</td>
+          <td>Giraldo Gil</td>
+          <td>@ggnicoo</td>
         </tr>
         <tr>
           <th scope="row">2</th>
-          <td>Jacob</td>
-          <td>Thornton</td>
-          <td>@fat</td>
+          <td>Soffia</td>
+          <td>Matinez Palacio</td>
+          <td>@diana_soffia</td>
         </tr>
         <tr>
           <th scope="row">3</th>
-          <td>Larry</td>
-          <td>the Bird</td>
-          <td>@twitter</td>
+          <td>Daniel</td>
+          <td>López López</td>
+          <td>@danfer__lopez</td>
         </tr>
       </tbody>
     </table>
